@@ -1,3 +1,5 @@
+FORKED ON 12/24/2017 AT 11:44 AM EST
+
 Bitcoin Core integration/staging tree
 =====================================
 
